@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Noticias de hoy sobre tecnología</string>
+
+    <string name="log_in">Iniciar sesión</string>
+    <string name="sign_in">Iniciar sesión</string>
+    <string name="sign_in_desc">¡No le tomará más de 1 minuto para poder empezar a leer noticias de calidad!</string>
+    <string name="sign_in_with_google">Iniciar sesión con Google</string>
+    <string name="could_not_login">No se pudo iniciar sesión con Google.</string>
+    <string name="signout">Cerrar sesión</string>
+
+    <string name="no_comments">Todavía no hay comentarios en esta página, ¿que tal si escribes uno?</string>
+    <string name="write_comment">Escribir comentario…</string>
+    <string name="comment_sent">Comentario enviado.</string>
+    <string name="comment_removed">Comentario eliminado.</string>
+    <string name="comment_notsent">Ha ocurrido un error al enviar el comentario, vuelve a intentarlo.</string>
+    <string name="comment_notremoved">Ha ocurrido un error al eliminar el comentario, vuelve a intentarlo.</string>
+
+    <string name="vote_notsent">Ha ocurrido un error al enviar el voto, vuelve a intentarlo.</string>
+    <string name="vote_notremoved">Ha ocurrido un error al eliminar el voto, vuelve a intentarlo.</string>
+
+    <!-- Noticias para España (es) no están disponibles, así que se muestran las de argeninta, por ejemplo -->
+    <string name="country_code">ar</string>
+    <string name="latest_news">Últimas noticias</string>
+    <string name="tech_label">Tecnología</string>
+    <string name="sci_label">Cienca</string>
+    <string name="sports_label">Deporte</string>
+    <string name="health_label">Salud</string>
+    <string name="entertainment_label">Entretenimiento</string>
+    <string name="politics_label">Política</string>
+    <string name="business_label">Negocios</string>
+    <string name="all_label">Todo</string>
+    <string name="general_label">General</string>
+    <string name="latest_news_about">Últimas noticias sobre </string>
+
+    <string name="go_back">Ir atrás</string>
+    <string name="go_comments">Ver comentarios</string>
+</resources>

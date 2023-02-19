@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Latest News</string>
+    <string name="api_key" translatable="false">cafbaab7b19a4789b9ff456dbc1e903f</string>
+
+    <string name="log_in">Log in</string>
+    <string name="sign_in">Log in</string>
+    <string name="sign_in_desc">It should take you less than a minute to start reading high quality news!</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="could_not_login">Could not log in with Google.</string>
+    <string name="signout">Sign out</string>
+
+    <string name="no_comments">There are no comments on this article yet, what about writing the first comment?</string>
+    <string name="write_comment">Write comment…</string>
+    <string name="comment_sent">Comment sent.</string>
+    <string name="comment_removed">Comment Removed.</string>
+    <string name="comment_notsent">Something went wrong while sending your comment, try again.</string>
+    <string name="comment_notremoved">Something went wrong while removing your comment, try again.</string>
+
+    <string name="vote_notsent">Something went wrong while sending your vote, try again.</string>
+    <string name="vote_notremoved">Something went wrong while removing your vote, try again.</string>
+
+    <string name="country_code">us</string>
+    <string name="latest_news">Latest news</string>
+    <string name="tech_label">Technology</string>
+    <string name="sci_label">Science</string>
+    <string name="sports_label">Sports</string>
+    <string name="health_label">Health</string>
+    <string name="entertainment_label">Entertainment</string>
+    <string name="politics_label">Politics</string>
+    <string name="business_label">Business</string>
+    <string name="all_label">All</string>
+    <string name="general_label">General</string>
+    <string name="latest_news_about">Latest news about </string>
+
+    <string name="go_back">Go back</string>
+    <string name="go_comments">Go to comments</string>
+</resources>
