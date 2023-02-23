@@ -25,7 +25,9 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal"
         app:layout_constraintBottom_toBottomOf="@+id/linearLayout2"
-        app:layout_constraintStart_toStartOf="parent">
+        app:layout_constraintStart_toStartOf="parent"
+        android:translationZ="2dp"
+        android:background="@color/white">
 
         <ImageButton
             android:id="@+id/upvote"
@@ -102,7 +104,7 @@
         <ScrollView
             android:id="@+id/scrollView2"
             android:layout_width="match_parent"
-            android:layout_height="600dp"
+            android:layout_height="match_parent"
             android:visibility="visible">
 
             <WebView

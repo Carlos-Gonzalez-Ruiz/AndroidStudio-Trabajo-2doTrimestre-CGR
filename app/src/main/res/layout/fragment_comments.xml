@@ -38,7 +38,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/toolbar"
         app:spanCount="1"
-        tools:listitem="@layout/view_comment" />
+        tools:listitem="@layout/view_comment"/>
 
     <com.google.android.material.progressindicator.CircularProgressIndicator
         android:id="@+id/progress"
@@ -93,6 +93,8 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/toolbar"
+        android:textAlignment="center"
+        android:padding="50dp"
         android:visibility="gone"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

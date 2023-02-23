@@ -187,29 +187,3 @@ object DbFirestore {
     }
 
 }
-
-/*
-*
-*
-"delete" comment styles
-"delete" comment dialog
-log out slider menu
-log out dialog
-about slider menu
-about fragment
-vote comments
-vote comments style
-report comment
-report comment style
-detail fragment upvote/downvote buttons
-detail fragment save button (room)
-news fragment save (room)
-keep custom toolbar on top (sticky toolbar)
-sort comments by date
-sort comments by votes
-sort comments button
-see saved articles slider menu
-add saved articles fragment
-clean code
-*
-* */
